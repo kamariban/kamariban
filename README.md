@@ -1,4 +1,4 @@
-## Hi, I'm Kamari 👋
+## Hello, I'm Kamari 
 
 I’m a recent Information Science graduate with experience in data analysis, NLP, and building Python tools for working with real-world datasets. My work has focused on extracting and structuring information from unstructured text using techniques like Named Entity Recognition (NER) and topic modeling.
 
